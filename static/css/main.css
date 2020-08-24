@@ -1,7 +1,7 @@
-h1 {
-    color: black;
-    text-align: center;
-    padding: 15px;
-    font-family: 'Consolas', 'Monaco', 'Bitstream Vera Sans Mono', monospace;
-    text-transform: capitalize;
+.no_bottom_margin {
+    margin-bottom: 0;
+}
+
+.big_text {
+    font-size: 20px;
 }
